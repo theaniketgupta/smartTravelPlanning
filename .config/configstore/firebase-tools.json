@@ -1,0 +1,37 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1704017571596
+	},
+	"usage": true,
+	"analytics-uuid": "a111112f-5b61-4706-8317-5b3245caf895",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "104789912776027051730",
+		"email": "aniketald2018@gmail.com",
+		"email_verified": true,
+		"at_hash": "ttfphyi69ClFIkc5rFZvtg",
+		"iat": 1704017589,
+		"exp": 1704021189
+	},
+	"tokens": {
+		"expires_at": 1704021190040,
+		"access_token": "ya29.a0AfB_byDb-x49JCGGznysvTAIc63MuHszznj-kGECv51W4lSo04nViuHh3hNl8xizqzNPL0X7QrLjQ6nREyvqsN4mzdnUA5fu1ISvtz6jDaI6FhDOyjBhwOg03aJqSLuTYR9O6Buife-IQvOmc605Y32DDIMjsQ6XGUsenk4oBAaCgYKAVcSARMSFQHGX2MifxYomb70Hi5CeJDf8Br0-g0177",
+		"expires_in": 3599,
+		"refresh_token": "1//0gJbhPbSV_mXqCgYIARAAGBASNwF-L9Ird3hNl5f4OsB6C51W8zqgvEyGFYOGKlOebfSPwFfnNgk_7e5D6R0LGy6VgT3KnklsvSA",
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/firebase openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1NmI1MmM4MWUzNmZlYWQyNTkyMzFhNjk0N2UwNDBlMDNlYTEyNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA0Nzg5OTEyNzc2MDI3MDUxNzMwIiwiZW1haWwiOiJhbmlrZXRhbGQyMDE4QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoidHRmcGh5aTY5Q2xGSWtjNXJGWnZ0ZyIsImlhdCI6MTcwNDAxNzU4OSwiZXhwIjoxNzA0MDIxMTg5fQ.ttMUOltGQZPJfltvb_G_cYt1RV4E9uQ3e934ljuXB1rcCfCat7f_HkZ8WJdHEeVB8PZlVEEnx98kPNStcB3_P5g-3l99swSILUUVerxEXuFLwIEB-AvTuBPuEUMaFKqnKSrQIimoR6B9EiZXJXCib5_cRnD0QOMyUqAd-bJHz-FUczDjWCCCLsmL8_5WwnKWgfLj_4oVj9o5vcD4I7n9Fka1Ehh7TmfNvwnc7AnEt7R2tvarevWCg9KrG9jwdkW6djktOJe-xdpoe2EA4qGqYKPgrC3S47s6XEACng3h8uxsgYNbH5Ckvq2yn3dexhib5gYYpvc0qlL3sF3Qo3O6tw"
+	},
+	"activeProjects": {
+		"C:\\Users\\ANIKET GUPTA\\Desktop\\test file\\netflix-gpt": "netflixgpt-c31d2"
+	}
+}

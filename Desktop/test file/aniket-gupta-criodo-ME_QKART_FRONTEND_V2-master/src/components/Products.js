@@ -252,9 +252,8 @@ const Products = () => {
       });
       if (response.status === 200) {
         //Update cartItems
-        setCartItems(
-          
-      (response.data, productDetails));
+        console.log(response.data," fetchCart");
+        setCartItems( generateCartItemsFrom(response.data, productDetails));
       }
     } catch (e) {
       if (e.response && e.response.status === 400) {
@@ -333,7 +332,6 @@ const Products = () => {
   const addToCart = async (
     token,
     items,
-    products,
     productId,
     qty,
     options = { preventDuplicate: false }
@@ -357,7 +355,7 @@ const Products = () => {
   };
 
   let handleCart = (productId) => {
-    addToCart(token, cartItems, productDetails, productId, 1);
+    addToCart(token, cartItems, productId, 1);
   };
 
   let handleQuantity = (productId, qty) => {
@@ -471,7 +469,7 @@ const Products = () => {
                   <Grid item key={product["_id"]} xs={6} md={3}>
                     <ProductCard
                       product={product}
-                      handleAddToCart={(event) => handleCart(product["_id"])}
+                      handleAddToCart={() => handleCart(product["_id"])}
                     />
                   </Grid>
                 ))

@@ -1,0 +1,10 @@
+{
+    "apps": [
+    ],
+    "engine": [
+        {
+            "name": "Nougat32",
+            "type": 0
+        }
+    ]
+}
